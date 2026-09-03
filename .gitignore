@@ -1,0 +1,5 @@
+# GitHub Pages defaults — keep it simple
+*.log
+.DS_Store
+node_modules/
+.vscode/
